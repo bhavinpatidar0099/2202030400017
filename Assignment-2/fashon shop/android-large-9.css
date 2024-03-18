@@ -1,0 +1,296 @@
+.frame-child1 {
+  align-self: stretch;
+  width: 360px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.fashion8 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 22px;
+  font-style: italic;
+  font-weight: 900;
+  font-family: inherit;
+  z-index: 1;
+}
+.a-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 19px;
+}
+.shop4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 22px;
+  font-style: italic;
+  font-weight: 300;
+  font-family: inherit;
+  z-index: 1;
+}
+.a-logo1 {
+  height: 41px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 0;
+  box-sizing: border-box;
+  color: var(--color-indianred);
+}
+.alogo-1-icon1 {
+  height: 82px;
+  width: 59px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.android-large-9-inner,
+.frame-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-header {
+  background-color: var(--color-gainsboro);
+  align-items: flex-end;
+  padding: 0 0 0 var(--padding-2xl);
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.android-large-9-inner {
+  align-items: flex-start;
+  padding: 0 0 var(--padding-xs);
+}
+.delivery-address {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  font-weight: 800;
+}
+.delivery-address-wrapper {
+  width: 245px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs);
+  box-sizing: border-box;
+}
+.line-div {
+  height: 3px;
+  flex: 1;
+  position: relative;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.android-large-9-child {
+  align-self: stretch;
+  height: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-xs) var(--padding-lg);
+  box-sizing: border-box;
+}
+.full-name {
+  position: relative;
+  line-height: 22px;
+  font-weight: 800;
+}
+.full-name-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) var(--padding-xs);
+}
+.frame {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+}
+.rectangle {
+  width: 341px;
+  height: 62px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) var(--padding-6xs);
+  box-sizing: border-box;
+}
+.mobile-nomber {
+  position: relative;
+  line-height: 22px;
+  font-weight: 800;
+}
+.text1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) var(--padding-7xs);
+}
+.frame1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+}
+.rectangle-frame {
+  width: 347px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) var(--padding-7xs);
+  box-sizing: border-box;
+}
+.full-address {
+  position: relative;
+  font-weight: 800;
+}
+.text2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+  text-align: left;
+}
+.rectangle-frame-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+}
+.rectangle-frame1 {
+  width: 347px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) var(--padding-10xs);
+  box-sizing: border-box;
+}
+.pin-code {
+  position: relative;
+  font-weight: 800;
+}
+.pin-code-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl) var(--padding-10xs);
+  text-align: left;
+}
+.empty-rectangle {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+}
+.address-frame {
+  align-self: stretch;
+  height: 84px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xl) var(--padding-10xl);
+  box-sizing: border-box;
+}
+.save-and-pay-child {
+  height: 53px;
+  width: 317px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.use-my-location1 {
+  position: relative;
+  z-index: 1;
+}
+.save-and-pay,
+.use-my-location {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.save-and-pay {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  align-items: center;
+  padding: var(--padding-xs) 83px var(--padding-xs) var(--padding-33xl);
+}
+.use-my-location {
+  align-items: flex-start;
+  padding: 0 var(--padding-mid) var(--padding-mid) var(--padding-7xl);
+  text-align: left;
+}
+.mobile-number-input-child {
+  height: 53px;
+  width: 317px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.save-and-go {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.mobile-number-input {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-25xl) var(--padding-xs) 55px;
+  background-color: var(--color-gainsboro);
+  border-radius: var(--br-21xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.android-large-9,
+.full-name-input {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 var(--padding-4xl);
+}
+.android-large-9 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 var(--padding-33xl);
+  box-sizing: border-box;
+  gap: 9px 0;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

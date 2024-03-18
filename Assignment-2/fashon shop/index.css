@@ -1,0 +1,92 @@
+.fs-1-icon {
+  height: 154px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.sub-frame {
+  width: 226px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-14xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.fashion,
+.shop {
+  position: relative;
+  line-height: 22px;
+  font-weight: 900;
+}
+.shop {
+  font-weight: 300;
+  color: var(--color-indianred);
+}
+.parent-frame,
+.sub-frame-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.parent-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sub-frame-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 21px 0;
+}
+.android-large-1-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 34px 0 var(--padding-2xl);
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.cl-1-icon {
+  width: 525.1px;
+  height: 452.7px;
+  position: absolute;
+  margin: 0 !important;
+  right: -100.6px;
+  bottom: -88.8px;
+  border-radius: 45px;
+  object-fit: contain;
+  z-index: 1;
+}
+.welcome {
+  width: 311px;
+  height: 104px;
+  position: relative;
+  font-size: 96px;
+  line-height: 22px;
+  font-family: var(--font-italianno);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.android-large-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xl) 305px var(--padding-5xl);
+  box-sizing: border-box;
+  gap: 194px 0;
+}

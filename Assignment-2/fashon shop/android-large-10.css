@@ -1,0 +1,103 @@
+.frame-child2 {
+  height: 69px;
+  width: 360px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  z-index: 0;
+}
+.fashion9,
+.shop5 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 900;
+  z-index: 1;
+}
+.shop5 {
+  font-weight: 300;
+  color: var(--color-indianred);
+}
+.alogo-1-icon2 {
+  height: 82px;
+  width: 59px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: -14px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xl) var(--padding-2xl) var(--padding-base);
+  position: relative;
+  gap: 0 1px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.clickable-rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 197px;
+  height: 205px;
+}
+.thank,
+.you {
+  margin: 0;
+}
+.you {
+  white-space: pre-wrap;
+}
+.thank-you {
+  position: absolute;
+  top: 55px;
+  left: 36px;
+  font-weight: 800;
+  z-index: 1;
+}
+.ellipse-shape {
+  width: 197px;
+  height: 205px;
+  position: relative;
+}
+.go-back-to {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 22px;
+  font-weight: 300;
+  text-align: center;
+}
+.android-large-10,
+.ellipse-shape-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-shape-parent {
+  padding: 0 var(--padding-xl);
+  gap: 162px 0;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.android-large-10 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  padding: 0 0 114px;
+  box-sizing: border-box;
+  gap: 228px 0;
+}
